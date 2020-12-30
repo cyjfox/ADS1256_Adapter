@@ -1,0 +1,10 @@
+D:\workspace\ADS1256_Adapter\ADS1256_Adapter\bin\Debug\ADS1256_Adapter.exe.config
+D:\workspace\ADS1256_Adapter\ADS1256_Adapter\bin\Debug\ADS1256_Adapter.exe
+D:\workspace\ADS1256_Adapter\ADS1256_Adapter\bin\Debug\ADS1256_Adapter.pdb
+D:\workspace\ADS1256_Adapter\ADS1256_Adapter\obj\Debug\ADS1256_Adapter.csprojAssemblyReference.cache
+D:\workspace\ADS1256_Adapter\ADS1256_Adapter\obj\Debug\ADS1256_Adapter.Form1.resources
+D:\workspace\ADS1256_Adapter\ADS1256_Adapter\obj\Debug\ADS1256_Adapter.Properties.Resources.resources
+D:\workspace\ADS1256_Adapter\ADS1256_Adapter\obj\Debug\ADS1256_Adapter.csproj.GenerateResource.cache
+D:\workspace\ADS1256_Adapter\ADS1256_Adapter\obj\Debug\ADS1256_Adapter.csproj.CoreCompileInputs.cache
+D:\workspace\ADS1256_Adapter\ADS1256_Adapter\obj\Debug\ADS1256_Adapter.exe
+D:\workspace\ADS1256_Adapter\ADS1256_Adapter\obj\Debug\ADS1256_Adapter.pdb
